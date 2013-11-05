@@ -1,4 +1,4 @@
-circulant_matrix_tracker
+Circulant matrix tracker
 ========================
 
 ![Tracking example](tracking_example.png "Tracking example")
